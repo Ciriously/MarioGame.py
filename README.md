@@ -1,9 +1,6 @@
 # MarioPygame
 
 A python remake of the classic Super Mario Bros.
-
-* [YouTube link](https://www.youtube.com/watch?v=WCkBDyX0qNI)
-
 ## About
 **Note: The code is a bit messy. Live with it.
 At the moment I was writing it I was a complete beginner so I was using 
