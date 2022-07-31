@@ -28,5 +28,5 @@ pip install pygame
 pip install pytmx
 ```
 
- Then execute 'Next/main.py'. 
+ Then execute 'Next/main.py'........ 
 
