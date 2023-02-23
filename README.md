@@ -2,7 +2,9 @@ This game is a simple 2D platformer game, similar to the classic Mario games. Th
 
 To run the game, you will need Python 3.x and the Pygame library installed on your computer. You can download Pygame by running the following command in your terminal:
 
+```````
 pip install pygame
+```````
 
 Once you have installed Pygame, you can run the game by running the mario_game.py file in your terminal:
 
